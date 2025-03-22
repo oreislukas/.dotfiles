@@ -1,0 +1,6 @@
+font=noto sans 10
+background-color=#00000099
+text-color=#ffffff
+border-color=#4E89CF
+border-radius=5
+default-timeout=10000
