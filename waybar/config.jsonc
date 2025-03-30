@@ -7,6 +7,7 @@
     "spacing": 3, // Gaps between modules (4px)
     // Order of the modules
     "modules-left": [
+        "custom/wofi",
         "hyprland/workspaces",
         "mpris"
     ],
@@ -136,6 +137,11 @@
 	    },
 	  "status-icons": {
 		"paused": "▶"
-	  },
+	  }
+    },
+    "custom/wofi": {
+        "format": "",
+        "on-click": "wofi --show drun",
+        "on-click-right": "killall wofi"
     }
 }

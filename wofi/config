@@ -1,9 +1,8 @@
-width=40%
+width=25%
 height=40%
 prompt=Search
 allow_images=true
 single_click=true
-columns=2
 gtk_dark=true
-term=kitty
+term=ghostty
 colors=colors
