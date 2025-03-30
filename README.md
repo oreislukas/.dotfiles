@@ -1,4 +1,4 @@
-# .dotfiles
+# lukas-dotfiles
 Meus arquivos de configuração do Arch, Hyprland e outros utilitarios
 
 ### English vers.
